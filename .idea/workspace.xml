@@ -5,13 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c94ddc92-b4e8-4d4c-adc3-6700b19e3ca4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/exercicio01/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exercicio02/Exercicio.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exercicio03/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exercicio03/Retangulo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exercicio04/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exercicio04/Temperatura.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exercicio05/Distancia.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exercicio05/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exercicio06/Hora.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exercicio06/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/casa/Bicicleta.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exercicio01/Bicicleta.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/casa/Main.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,6 +44,8 @@
     "Application.Exercicio.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.exercicio03.Main.executor": "Run",
+    "Application.exercicio04.Main.executor": "Run",
+    "Application.exercicio05.Main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
@@ -58,26 +60,13 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.exercicio03.Main">
+  <component name="RunManager" selected="Application.exercicio06.Main">
     <configuration name="Exercicio" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="exercicio02.Exercicio" />
       <module name="ListaDeExerciciosI-POO" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="exercicio02.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="br.casa.Main" />
-      <module name="ListaDeExerciciosI-POO" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="br.casa.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -98,11 +87,52 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="exercicio04.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exercicio04.Main" />
+      <module name="ListaDeExerciciosI-POO" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="exercicio04.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="exercicio05.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exercicio05.Main" />
+      <module name="ListaDeExerciciosI-POO" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="exercicio05.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="exercicio06.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exercicio06.Main" />
+      <module name="ListaDeExerciciosI-POO" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="exercicio06.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.exercicio06.Main" />
+        <item itemvalue="Application.exercicio05.Main" />
+        <item itemvalue="Application.exercicio04.Main" />
         <item itemvalue="Application.exercicio03.Main" />
         <item itemvalue="Application.Exercicio" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -128,7 +158,12 @@
       <workItem from="1744744972464" duration="3092000" />
       <workItem from="1744917326074" duration="3349000" />
       <workItem from="1744977803579" duration="2814000" />
-      <workItem from="1744987414269" duration="4672000" />
+      <workItem from="1744987414269" duration="5262000" />
+      <workItem from="1744995778169" duration="2702000" />
+      <workItem from="1744999282157" duration="123000" />
+      <workItem from="1744999574400" duration="287000" />
+      <workItem from="1744999962523" duration="1029000" />
+      <workItem from="1745001420071" duration="2742000" />
     </task>
     <servers />
   </component>

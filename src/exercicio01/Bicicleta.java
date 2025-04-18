@@ -1,4 +1,4 @@
-package br.casa;
+package exercicio01;
 
 import java.text.DecimalFormat;
 
@@ -22,7 +22,7 @@ public class Bicicleta {
         aux += "\tDados da bicicleta:\n ------------------------- \n";
         aux += "\tCor: " + cor + "\n";
         aux += "\tNúmero de Marchas: " + numMarchas + "\n";
-        aux += "\tValor: " + df.format(valor);
+        aux += "\tValor: " + df.format(valor) + "\n";
 
         return aux;
     }
